@@ -81,9 +81,9 @@
             <summary>Window controls</summary>
             <blockquote>
                 <p>Big picture</p>
-                <p>Minimize</p>
-                <p>Maximize</p>
-                <p>Close</p>
+                <a href="/Pages/Minimize.md"<p>Minimize</p></a>
+                <a href="/Pages/Maximize.md"><p>Maximize</p></a>
+                <a href="/Pages/Close.md"><p>Close</p></a>
             </blockquote>
         </details>
     </blockquote>
