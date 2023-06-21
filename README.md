@@ -149,3 +149,5 @@
 	<p>Sign out of my account...
     </blockquote>
 </details>
+
+## There's some stuff in urlStore.m_steamUrls, which can be used with the same type of navigation as the "Library" and and "Store".
